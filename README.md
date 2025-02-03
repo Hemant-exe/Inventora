@@ -1,2 +1,2 @@
 # Inventora
-Inventora is an efficient inventory management tool for College inventory.
+Inventora is a full-stack MERN-based inventory management system for college essentials like chalk, markers, and dusters. It streamlines request generation, approval, and access-controlled logins while enabling seamless PDF report generation. With an intuitive interface, it ensures efficient tracking, reduces manual effort, and optimizes resource allocation. Ideal for administrators and staff, Inventora enhances transparency and accountability in inventory management.
